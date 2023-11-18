@@ -1,0 +1,11 @@
+git config ---> lets you  set configuration variables that control local and gobal project and can modified it 
+                git config --global --edit  this command to open and edit in config file   
+                and any file will commit it wii use new configuration 
+
+
+git init ---> creates an empty Git repository
+
+git merge ---> combining the changes in one branch with another branch.
+ 
+git remote ---> a Git repository that's hosted on the Internet or another network and
+                 allow you to view or write or delete on this repo
