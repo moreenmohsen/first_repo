@@ -1,0 +1,10 @@
+to make a button with html  -->  first we use button tag and it is opening and closing tag 
+                                 and it has many attribute in it 
+                                 type one of these the defult value is submit in most browsers
+                                 (we use submit attribute when we want to submit current data)
+                                 another value is reset (we use it in reset data in current form)
+                                 last is button value (we use it do effect)
+    
+                                 <button type="button">Click Me!</button>  
+                                 click me what will appear on button          
+                                    
